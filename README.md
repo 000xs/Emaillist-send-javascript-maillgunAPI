@@ -16,7 +16,7 @@ note : project cd you project files and install
 ```bash
   node index.js
 ```
-    
+   place you emaills to ```list.txt```. 
 ## to use
 
  - [mailgun.com](https://www.mailgun.com/)
